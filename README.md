@@ -13,3 +13,4 @@
 10. Regular Expressions (RegEx)
 
 ## Certificate:
+<img src="certificate.jpeg"/>
