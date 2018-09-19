@@ -1,6 +1,6 @@
 # Course: Programming Fundamentals with C#
 
-## Subjects:
+## Topics:
 01. C# Intro and Basic Syntax
 02. C# Conditional Statements and Loops
 03. Data Types and Variables 
