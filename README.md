@@ -11,6 +11,7 @@
 08. Objects and Classes
 09. Strings and Text Processing
 10. Regular Expressions (RegEx)
+11. Files and Exceptions
 
 ## Certificate:
 <img src="certificate.jpeg"/>
