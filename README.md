@@ -21,9 +21,6 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 10. Regular Expressions (RegEx)
 11. Files and Exceptions
 
-## Status:
-Completed
-
 ## Certificate:
 <img src="certificate.jpeg"/>
  
